@@ -104,6 +104,3 @@ The model should predict the answer **one character at a time**, **autoregressiv
   * Carrying over digits
   * Structure of valid inputs and outputs
 * No hardcoded math rules — pure learning from examples
-
-
-![diagram](https://github.com/user-attachments/assets/93a86e5d-70e0-45e2-aad8-0deaaf275c65)
